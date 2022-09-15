@@ -25,7 +25,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-     - course: Ph.D. in Sociology
+    - course: Ph.D. in Sociology
       institution: The Ohio State University
       year: 
     - course: BSc in Sociology
