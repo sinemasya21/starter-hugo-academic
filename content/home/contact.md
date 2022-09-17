@@ -25,13 +25,13 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
-  phone: 888 888 88 88
+  email: esengen.1@osu.edu  
+  phone: 
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
+    street: 
+    city: Columbus
+    region: OH
+    postcode: '43201'
     country: United States
     country_code: US
   coordinates:
@@ -46,7 +46,7 @@ content:
     - icon: twitter
       icon_pack: fab
       name: DM Me
-      link: 'https://twitter.com/Twitter'
+      link: 'https://twitter.com/SinemEsengen'
     - icon: video
       icon_pack: fas
       name: Zoom Me
