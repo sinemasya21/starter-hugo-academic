@@ -16,16 +16,16 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: basic
+  - description: Basic
     icon: r-project
     icon_pack: fab
     name: R
-  - description: 
+  - description: Intermediate
     icon: chart-line
     icon_pack: fas
     name: STATA, SPSS
   - description: Reading Proficiency
-    icon: camera-retro
+    icon: :scroll:  
     icon_pack: fas
     name: Spanish
 # Uncomment to use emoji icons.
