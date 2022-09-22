@@ -25,7 +25,7 @@ feature:
     icon_pack: fas
     name: STATA, SPSS
   - description: Reading Proficiency
-    icon: :scroll:  
+    icon: scroll  
     icon_pack: fas
     name: Spanish
 # Uncomment to use emoji icons.
