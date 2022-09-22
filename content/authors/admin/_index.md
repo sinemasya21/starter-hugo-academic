@@ -75,6 +75,6 @@ highlight_name: true
 
 I am a Ph.D. student of Sociology at [the Ohio State University](https://sociology.osu.edu/). My research interests include reproductive health, gender and sexuality, and abortion with a focus on Latin America and the MENA region.
 
-I have my BSc in Economics and Business Economics at [Maastricht University](https://www.maastrichtuniversity.nl/about-um/faculties/school-business-and-economics), with a specialization in Emerging Markets. In 2020, I graduated from MA in [Gender and Women's Studies in METU] (https://gws.metu.edu.tr/en), working on Medical Sociology & Reproductive health. Currenly, I am interested working on telemedicine services and feminist movements in Latin America.
+I have my BSc in Economics and Business Economics at [Maastricht University](https://www.maastrichtuniversity.nl/about-um/faculties/school-business-and-economics), with a specialization in Emerging Markets. In 2020, I graduated from MA in [Gender and Women's Studies in METU] https://gws.metu.edu.tr/en), working on Medical Sociology & Reproductive health. Currenly, I am interested working on telemedicine services and feminist movements in Latin America.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
