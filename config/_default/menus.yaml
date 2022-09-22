@@ -8,7 +8,7 @@ main:
     url: '#about'
     weight: 10
   - name: CV
-    url: '#uploads/resume.pdf'
+    url: '#uploads/Esengen_CV_2022.pdf'
     weight: 20
   - name: Contact
     url: '#contact'
