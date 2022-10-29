@@ -18,14 +18,14 @@ bio: My research interests include health, gender and reproductive health.
 
 # Interests to show in About widget
 interests:
-  - gender and sexuality
-  - reproductive health
-  - sociology of music
+  - Gender and Sexuality
+  - Reproductive Health
+  - Feminist Theory
 
 # Education to show in About widget
 education:
   courses:
-    - course: Ph.D. in Sociology
+    - course: Ph.D. Student in Sociology
       institution: The Ohio State University
       year: current
     - course: BSc in Sociology
