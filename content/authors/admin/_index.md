@@ -27,7 +27,7 @@ education:
   courses:
     - course: Ph.D. in Sociology
       institution: The Ohio State University
-      year: 2022 -
+      year: current
     - course: BSc in Sociology
       institution: Middle East Technical University
       year: 2022
