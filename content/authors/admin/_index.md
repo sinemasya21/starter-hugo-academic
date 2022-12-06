@@ -28,7 +28,7 @@ education:
     - course: Ph.D. Student in Sociology
       institution: The Ohio State University
       year: current
-    - course: BSc in Sociology
+    - course: BSc in Sociology (Minor in History of Philosophy)
       institution: Middle East Technical University
       year: 2022
     - course: MSc in Gender & Women's Studies
