@@ -11,12 +11,12 @@ contentDir: content/en/
 # Uncomment the lines below to configure your website in a second language.
  tr:
   languageCode: tr
-  contentDir: content/tr
+  contentDir: content/tr/
   title: Sinem Esengen
-#  params:
-#    description: Site description in Chinese...
-#  menu:
-#    main:
-#      - name: 传
-#        url: '#about'
-#        weight: 1
+  params:
+    description: ...
+  menu:
+    main:
+      - name: Sinem Esengen
+        url: '#about'
+        weight: 1
